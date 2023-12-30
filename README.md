@@ -14,7 +14,7 @@ https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-1957
 https://colab.research.google.com/drive/1NgKq0iymPETkeJoEGoNE3lwpLSbz1adf?usp=sharing
 <br><br>
 
-Detailing the successes and failures of space missions based on every individual company.
+Detailing the successes and failures of space missions per company/country
 
 ![Space missions by company](https://i.imgur.com/RpF8g6N.png)
 
