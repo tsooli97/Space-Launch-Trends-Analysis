@@ -28,7 +28,8 @@ Data forecasting/extrapolation using the Holt-Winters algorithm
 <h3>How to Access the Full Analysis</h3>
 You can explore the full, detailed analysis in the Google Colab notebook behind the following link: 
 https://colab.research.google.com/drive/1NgKq0iymPETkeJoEGoNE3lwpLSbz1adf?usp=sharing <br><br>
-Alternatively, you can also download the Jupyter Notebook file and the dataset, and try it out yourself e.g. on a local machine.
+Alternatively, you can also download the Jupyter Notebook file and the dataset, and try it out yourself e.g. on a local machine. You can find instructions for that here:
+https://docs.jupyter.org/en/latest/running.html
 
 <h3>Tools and Technologies</h3>
 This project was conducted using Python and utilizes libraries such as Pandas and Matplotlib, as well as Statsmodels for small data extrapolation.
