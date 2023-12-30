@@ -14,15 +14,16 @@ https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-1957
 https://colab.research.google.com/drive/1NgKq0iymPETkeJoEGoNE3lwpLSbz1adf?usp=sharing
 <br><br>
 
-Detailing the successes and failures of space missions per company/country
+Detailing the successes and failures of space missions per company/country:
 
 ![Space missions by company](https://i.imgur.com/RpF8g6N.png)
 
-Investigating the amount of space mission launches per year over the course of the dataset, and how mission success rate has changed over time.
+Investigating the amount of space mission launches per year over the course of the dataset, and how mission success rate has changed over time:
 
 ![Space mission launches per year, and the overall success of the missions in general](https://i.imgur.com/gkUC6Rp.png)
 
-Data forecasting/extrapolation using the Holt-Winters algorithm
+Data forecasting/extrapolation using the Holt-Winters algorithm:
+
 ![Data forecasting/extrapolation using the Holt-Winters algorithm](https://i.imgur.com/3NFddj1.png) 
 
 <h3>How to Access the Full Analysis</h3>
