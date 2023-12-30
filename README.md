@@ -35,4 +35,5 @@ https://docs.jupyter.org/en/latest/running.html
 This project was conducted using Python and utilizes libraries such as Pandas and Matplotlib, as well as Statsmodels for small data extrapolation.
 
 <h3>Contributing</h3>
+
 Contributions to this project are welcome if you're interested! Feel free to fork the repository, make changes, and submit a pull request.
